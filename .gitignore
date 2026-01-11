@@ -21,7 +21,7 @@ venv.bak/
 *.swo
 
 # Data files (except sample/example data)
-data/*.csv
+*.csv
 !data/sample.csv
 
 # Environment variables
